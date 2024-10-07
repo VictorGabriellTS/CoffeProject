@@ -39,7 +39,7 @@
 
 .wrapper header nav ul a:hover {
     transition: all 200ms;
-    color: #5d3415;
+    color: var(--sec-text-color);
 }
 
 .wrapper main .coffee-banner {
